@@ -1,0 +1,16 @@
+[
+  {
+    "model": "tournament.round",
+    "fields": {
+      "round_tourn": 16,
+      "round_day": "Sat"
+    }
+  },
+  {
+    "model": "tournament.round",
+    "fields": {
+      "round_tourn": 16,
+      "round_day": "Sun"
+    }
+  }
+]
